@@ -1,0 +1,56 @@
+#id01{
+    color: brown;
+}
+
+.zagolovok_col{
+    color: blue;
+}
+.kniga_color1{
+    color: peru;
+    font-size: 150%;
+}
+.rightpic{
+    float: right; 
+    margin: 0 0 5px 5px; 
+}
+.kniga_color2{
+    color: peru;
+}
+.kniga{
+    color: brown;
+    font-size: 140%;
+
+}
+#kniga1{
+    color: brown;
+    font-size: 160%;
+}
+.rightpic1{
+    float: left; 
+    margin: 0 0 5px 5px; 
+}
+
+#id2{
+    color: brown;
+    font-size: 140%
+}
+#id3{
+    color: peru;
+    font-size: 140%
+}
+#id4{
+    color: darkred;
+    font-size: 150%
+}
+hr {
+    border: none; /* Убираем границу */
+    background-color: red; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+}
+BODY {
+    background:url(../img/2.jpg)
+   } 
+
+
+
